@@ -1,16 +1,6 @@
+#Ojogo Gomoku, também conhecido como Gobang,
+#é um jogo de tabuleiro estratégico tradicionalmente jogado com peças de Go em um tabuleiro de Go ligeiramente modificado
 
-
-"""Gomoku código inicial
-Você deveria completar cada função incompleta e adcionar
-mais funções e variáveis de acordo com sua necessidade.
-
-Note que algumas funções incompletas tem 'pass' como seu primeiro comando:
-pass é uma palavra chame em python que indica para o computador fazer nada.
-Isso indica o lugar onde deve estar a sua implementação. Remova o pass
-quando a fizer.
-
-Outras funções tem "mude-me".
-"""
 
 
 def esta_vazia(tabuleiro):
